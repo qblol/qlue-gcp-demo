@@ -1,6 +1,3 @@
-# qlue-gcp-demo
-For GCP Demo, on Qlue X Digitaraya X CloudAce Event. 22 April 2020
-
 # GCP Google App Engine Demo
 
 This repository is for GCP demo, on Qlue X Digitaraya X CloudAce Webinar, 22 April 2020.
