@@ -30,6 +30,11 @@ The master branch is the final product of this demo, to find out step by step, y
 ```
 git checkout TAG_NAME
 ```
+for running on local environment.
+
+```
+npm start
+```
 
 ## Deployment
 
